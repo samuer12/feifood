@@ -1,0 +1,58 @@
+habib's: esfiha de carne: 5.90
+habib's: kibe: 6.50
+habib's: pastel de queijo: 4.90
+habib's: beirute: 14.90
+
+bob's: bob's burguer: 17.90
+bob's: milk shake de ovomaltine: 12.50
+bob's: big bob: 19.90
+bob's: batata frita: 9.90
+
+girafas: prato executivo: 24.90
+girafas: sanduíche girafão: 18.90
+girafas: estrogonofe de frango: 22.90
+girafas: suco natural: 7.50
+
+ragazzo: coxinha de frango: 3.99
+ragazzo: lasanha: 14.90
+ragazzo: pizza brotinho: 9.90
+ragazzo: risoto de carne: 15.90
+
+spoleto: massa ao sugo: 18.90
+spoleto: fettuccine com frango: 21.90
+spoleto: penne ao quatro queijos: 20.50
+spoleto: nhoque com molho bolonhesa: 22.00
+
+giraffas express: sanduiche de picanha: 19.90
+giraffas express: batata com cheddar e bacon: 11.90
+giraffas express: milk shake de chocolate: 12.90
+
+outback: ribs on the barbie: 59.90
+outback: blooming onion: 49.90
+outback: junior ribs: 42.90
+outback: chocolate thunder: 34.90
+
+china in box: yakissoba: 24.90
+china in box: frango xadrez: 25.90
+china in box: rolinho primavera: 5.50
+china in box: guioza: 7.90
+
+pizza hut brasil: calabresa: 39.90
+pizza hut brasil: frango com catupiry: 41.90
+pizza hut brasil: portuguesa: 42.50
+pizza hut brasil: marguerita: 38.90
+
+subway brasil: frango defumado com cream cheese: 24.90
+subway brasil: atum: 22.90
+subway brasil: vegetariano: 21.90
+subway brasil: carne e queijo: 25.50
+
+macdonald’s: big tasty: 28.90
+macdonald’s: cheddar mcmelt: 26.90
+macdonald’s: mc flurry prestigio: 11.90
+macdonald’s: mc lanche feliz: 22.90
+
+burguer king: whopper duplo: 29.90
+burguer king: mega stacker: 32.90
+burguer king: batata supreme: 10.90
+burguer king: sundae ovomaltine: 12.50
